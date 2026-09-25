@@ -4,7 +4,6 @@
 [class*="title-bar"],
 header[class*="Title"] {
   background-color: #8a2be2 !important; /* Tu violeta brillante sólido */
-  background: #8a2be2 !important;        /* Forzado para evitar degradados */
 }
 
 h1, h2, [class*="title"] {
@@ -52,7 +51,7 @@ h1, h2, [class*="title"] {
 [class*="library-filters"] button,
 button[class*="Filter"] {
   background-color: rgba(255, 255, 255, 0.04) !important; /* Casi invisibles */
-  color: #a78bfa !important;                             /* Texto violeta claro opaco */
+  color: #1d0369 !important;                             /* Texto violeta claro opaco */
   border: 1px solid rgba(138, 43, 226, 0.2) !important;  /* Borde morado suave */
   box-shadow: none !important;   
 
